@@ -2,7 +2,7 @@ name: s_context_menu
 description: A professional highly-featured Flutter context menu widget built from scratch, offering advanced customization, accessibility, and smooth animations.
 issue_tracker: https://github.com/SoundSliced/s_context_menu/issues
 repository: https://github.com/SoundSliced/s_context_menu
-version: 1.0.0
+version: 2.0.0
 homepage: https://github.com/SoundSliced/s_context_menu
 
 environment:
@@ -12,11 +12,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  keystroke_listener: ^1.0.0
-  nb_utils: ^7.1.8
-  pausable_timer: ^3.1.0+3
-  soundsliced_tween_animation_builder: ^1.2.0
-  universal_html: ^2.3.0
+  s_packages: ^1.1.2
 
 dev_dependencies:
   flutter_test:

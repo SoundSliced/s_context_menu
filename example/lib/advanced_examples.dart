@@ -1,4 +1,3 @@
-import 'package:flutter/material.dart';
 import 'package:s_context_menu/s_context_menu.dart';
 
 /// Example demonstrating advanced s_context_menu usage patterns
