@@ -26,7 +26,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  s_context_menu: ^2.0.0
+  s_context_menu: ^2.1.0
 ```
 
 Then import the package:
@@ -240,6 +240,8 @@ When the context menu is open, you can:
 | `keepMenuOpen` | `bool` | `false` | Keep menu open after button press |
 | `semanticsLabel` | `String?` | `null` | Custom semantic label for accessibility |
 | `id` | `String?` | `null` | Stable identifier for the item |
+| `disabled` | `bool` | `false` | Render at reduced opacity with forbidden cursor |
+| `shortcutHint` | `String?` | `null` | Right-aligned secondary text showing keyboard shortcut |
 
 ### SContextMenuTheme
 
