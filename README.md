@@ -26,7 +26,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  s_context_menu: ^2.1.0
+  s_context_menu: ^3.0.0
 ```
 
 Then import the package:
